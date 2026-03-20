@@ -1,5 +1,0 @@
-{
-  "name": "Dziri Ta3lim",
-  "description": "منصة تعليمية جزائرية تربط الأساتذة بالتلاميذ وفق المنهاج الجزائري.",
-  "requestFramePermissions": ["camera", "microphone", "geolocation"]
-}
